@@ -1,1 +1,1 @@
-# iyanu's-landing-page
+# iyanu-landing-page
